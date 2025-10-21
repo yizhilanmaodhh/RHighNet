@@ -1,7 +1,5 @@
 # RHighNet
 The code for the paper "Relation-Aware High-Order Interaction Network for Remote Sensing Image Change Detection"
-
-#PyTorch implementation of Relation-aware High-order Interaction Network for Remote Sensing Image Change Detection
 - **DOI**: [10.1109/TGRS.2025.3604400]
 
 ## 📝 Introduction
