@@ -10,11 +10,26 @@ The proposed RHighNet consists of two key components: (1) A Temporal Relationshi
 Extensive experiments on four benchmark datasets—LEVIR-CD, WHU-CD, SYSU, and CDD—demonstrate the effectiveness and superiority of our method in remote sensing image change detection.
 
 ## 🚀 Installation
-Our code is implemented in **PyTorch** .
+Our code is implemented in **PyTorch 2.4.1** and requires **Python 3.8**.
 
 ### Train and Test
 ```
 python main_zl.py
 ```
+
+## 📖 Citation
+If you find this work useful in your research, please cite the following paper:
+
+@ARTICLE{11145923,
+  author={Dong, Huihui and Du, Xinyu and Li, Zhijie and Ma, Zongfang and Wang, Yumeng and Zhu, Hao and Ma, Wenping},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Relation-Aware High-Order Interaction Network for Remote Sensing Image Change Detection}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-16},
+  keywords={Feature extraction;Transformers;Remote sensing;Attention mechanisms;Accuracy;Adaptation models;Decoding;Convolutional neural networks;Training;Data mining;Change detection;high-order spatial interaction;relation attention mechanisms;remote sensing images},
+  doi={10.1109/TGRS.2025.3604400}
+}
 
 For any questions, please contact: Email: hhdongxd@163.com
